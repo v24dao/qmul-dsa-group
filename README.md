@@ -9,8 +9,7 @@ We will solve 5 questions per week. For those starting from zero, this equates t
 
 ## Schedule
 - Weekly question sets will be shared in the group chat the weekend prior
-- We'll aim to meet on Wednesdays and/or Fridays most weeks
-  - Pair programming or solo coding
+- We'll aim to meet on Wednesdays and/or Fridays most weeks for pair programming or solo coding
   - Updates will be provided in the group chat
   - Feel free to make suggestions
 
