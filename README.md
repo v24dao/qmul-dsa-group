@@ -2,7 +2,7 @@
 
 ## Overview
 
-As a group, we will be following the [NeetCode 250](https://neetcode.io/practice?tab=neetcode250) problems list since it a very popular beginner-friendly list for [LeetCode](https://leetcode.com/). We will aim to solve all of the easy and medium questions from this list (215 in total). Practicing [Data Structures and Algorithms](https://www.w3schools.com/dsa/dsa_intro.php#:~:text=Data%20Structures%20is%20about%20how,through%20and%20manipulating%20data%20structures.) through [LeetCode]() is good for those who enjoy solving problems or those who wish to land a role in [Big Tech](https://en.wikipedia.org/wiki/Big_Tech).
+As a group, we will be following the [NeetCode 250](https://neetcode.io/practice?tab=neetcode250) problems list since it a very popular beginner-friendly list for [LeetCode](https://leetcode.com/). We will aim to solve all of the easy and medium questions from this list (215 in total). Practicing [Data Structures and Algorithms](https://www.w3schools.com/dsa/dsa_intro.php#:~:text=Data%20Structures%20is%20about%20how,through%20and%20manipulating%20data%20structures.) through [LeetCode](https://leetcode.com/) is good for those who enjoy solving problems or those who wish to land a role in [Big Tech](https://en.wikipedia.org/wiki/Big_Tech).
 
 ## Weekly Plan
 We will solve 5 questions per week. For those starting from zero, this equates to 2-300 problems solved by the end of the academic year! Expect 3–6 hours of practice weekly. 
