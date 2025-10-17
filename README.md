@@ -12,6 +12,7 @@ As a group, we will be following the [NeetCode 250](https://neetcode.io/practice
   - [Top 7 Data Structures](https://www.youtube.com/watch?v=cQWr9DFE1ww)
   - [Big O Notation](https://youtu.be/BgLTDT03QtU?si=etaNR8MMaLCUAmXL)
   - [Top 7 Algorithms](https://www.youtube.com/watch?v=kp3fCihUXEg)
+- Start solving problems from the [NeetCode 250](https://neetcode.io/practice?tab=neetcode250)
 
 ## Weekly Plan & Schedule
 
