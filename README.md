@@ -14,7 +14,7 @@ We will solve 5 questions per week. For those starting from zero, this equates t
   - Feel free to make suggestions
 
 ## Getting Started
-- Create an [NeetCode](https://neetcode.io) to track your progress
+- Create an account on [NeetCode](https://neetcode.io) to track your progress
 - Create an account on [LeetCode](https://leetcode.com) to attempt the questions
 - Review the following content 
   - [Python for Coding Interviews](https://youtu.be/0K_eZGS5NsU?si=RUKTszo2kyZEJB6y)  
@@ -23,7 +23,6 @@ We will solve 5 questions per week. For those starting from zero, this equates t
   - [Top 7 Algorithms](https://www.youtube.com/watch?v=kp3fCihUXEg)
 
 ## Approach to solving DSA problems
-- Everyone has a different way of learning but this is [Vu](https://github.com/v24dao)'s personal approach
 
 ### Before Attempt:
 - Learn the relevant Data Structures & Algorithms   
@@ -32,14 +31,15 @@ We will solve 5 questions per week. For those starting from zero, this equates t
 - Spend 30–40 minutes on each problem before seeking help:
   - Read through the problem carefully
   - Look out for edge cases 
-  - Select an approach, remembering to the tradeoffs between different approaches
+  - Select an approach, remembering to consider the tradeoffs between different approaches
+    - It may be helpful to come up with a naive/ brute force approach first, and a more optimal one after 
   - Verbalise and/or write down the time and space complexity of your approach
   - Pseudocode and/or sketch out your approach on a whiteboard/ in a notebook
   - Attempt the problem with a coded soluton (Python is recommended)
   - Debug and optimise your solution when necessary
 - If unsuccessful, refer to the following resources, then spend another 20-30 minutes on problem:
   - Hints tab on [LeetCode](https://leetcode.com/)
-  - The explanation (first) portion of the relevant [NeetCode](https://www.youtube.com/@NeetCodeIO) video
+  - The explanation (first) portion of the relevant [NeetCode video](https://www.youtube.com/@NeetCodeIO) 
 
 ### After Attempt:
 - Refer to the model solutions on LeetCode/NeetCode and compare it to your own
